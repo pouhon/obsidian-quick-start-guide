@@ -1,4 +1,5 @@
-# obsidianクイックスタートガイド
+# Obsidianクイックスタートガイド
+
 ## 概要
 
 Obsidian日本語ヘルプ (https://publish.obsidian.md/help-ja) へのつなぎとして作成。
